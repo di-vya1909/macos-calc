@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rishabh987654321/macos-calc/static/css/main.f49a741f.css",
+    "main.js": "/Rishabh987654321/macos-calc/static/js/main.8938d868.js",
+    "static/js/453.f1a9f584.chunk.js": "/Rishabh987654321/macos-calc/static/js/453.f1a9f584.chunk.js",
+    "index.html": "/Rishabh987654321/macos-calc/index.html",
+    "main.f49a741f.css.map": "/Rishabh987654321/macos-calc/static/css/main.f49a741f.css.map",
+    "main.8938d868.js.map": "/Rishabh987654321/macos-calc/static/js/main.8938d868.js.map",
+    "453.f1a9f584.chunk.js.map": "/Rishabh987654321/macos-calc/static/js/453.f1a9f584.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49a741f.css",
+    "static/js/main.8938d868.js"
+  ]
+}
